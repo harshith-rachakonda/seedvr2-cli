@@ -21,3 +21,4 @@ models/
 *.safetensors
 uploads/
 *.mp4
+ComfyUI-SeedVR2_VideoUpscaler/
