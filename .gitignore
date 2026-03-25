@@ -1,0 +1,23 @@
+# Videos & outputs
+*.mp4
+*.png
+output/
+results/
+input/
+
+# Models
+*.pt
+*.pth
+*.ckpt
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+env/
+venv/
+models/
+*.safetensors
+uploads/
+*.mp4
